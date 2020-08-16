@@ -1,0 +1,425 @@
+img {
+    width: 100%;
+}
+
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+a,
+ol,
+ul,
+li,
+figcaption,
+textarea,
+input {
+    font-family: arial;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.whiteBody {
+    width: 630px;
+    margin: auto;
+    background: white;
+    margin-top: 9px;
+    border-radius: 6px;
+    padding: 6px 7px;
+}
+
+body {
+    background-color: #EEEEEE;
+    font-family: Verdana, Arial, Helvetica, sans-serif !important;
+}
+
+/* header css */
+
+.headerDiv {
+    display: flex;
+}
+
+.logoHeader {
+    padding: 19px 29px;
+    background: #eee;
+    margin-right: 3px;
+    border-radius: 6px 0 0 6px;
+}
+
+.logoHeader img {
+    width: 82px;
+    height: 82px;
+}
+
+.rightHead {}
+
+.URhead {
+    background: #007814 url(http://www.educationboardresults.gov.bd/images/banner_flag.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    padding: 5px;
+    padding-top: 16px;
+}
+
+.URhead h2 {
+    color: #74e374f5;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 0;
+    letter-spacing: .2px;
+}
+
+.mRhead {
+    background: #007814;
+    border-top: 1px solid #ffffff59;
+    padding: 5px;
+    padding-top: 5px;
+    padding-top: 10px;
+}
+
+.mRhead h2 {
+    font-size: 17px;
+    font-weight: bold;
+    color: #f7f4e8;
+    margin: 0;
+}
+
+.lRhead {
+    background: url(http://www.educationboardresults.gov.bd/images/bar_bk.jpg);
+    padding: 4px;
+    background-repeat: repeat-x;
+    display: flex;
+    justify-content: right;
+    margin-top: 1px;
+}
+
+.lRhead a {
+    color: white;
+    font-size: 11px;
+    margin-right: 4px;
+}
+
+.lRhead a:hover {
+    color: #28dd28;
+}
+
+/* form css */
+
+.formSection {
+    padding: 18px 80px;
+}
+
+.formSection form {}
+
+.allForm {
+    border: 1px solid #00000054;
+    padding: 32px 55px;
+}
+
+.allForm ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    display: grid;
+}
+
+.allForm ul li {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.allForm ul li p {
+    width: 103px;
+    font-size: 12px;
+    margin: 0;
+    font-weight: 900;
+}
+
+.allForm ul li span {
+    width: 0px;
+}
+
+.allForm ul li select {
+    width: 198px;
+    margin-left: 33px;
+    background: #eee;
+    border: 1px solid #00000038;
+    font-size: 12px;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.allForm ul li select option {}
+
+.allForm ul li input {
+    width: 208px;
+    margin-left: 23px;
+    background: #eee;
+    border: 1px solid #00000038;
+    font-size: 12px;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.formBtn {
+    text-align: right;
+    width: 96%;
+}
+
+.formBtn input {
+    font-size: 13px;
+}
+
+/* footer css */
+
+.footerSection {
+    padding-top: 22px;
+}
+
+.footerSection hr {
+    height: 6px;
+    background: #5fce27;
+    opacity: 1;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 1px;
+}
+
+.mainFooter {
+    display: flex;
+    background: #eee;
+    align-items: center;
+    padding: 13px 8px;
+    justify-content: space-between;
+    border-radius: 0 0 6px 6px;
+}
+
+.mainFooter p {
+    font-size: 9px;
+    margin: 0;
+    color: #0000009c;
+}
+
+.imgFooter {
+    display: flex;
+    align-items: center;
+}
+
+.imgFooter p {
+    margin-right: 20px;
+}
+
+.imgFooter img {
+    width: 86px;
+}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
