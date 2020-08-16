@@ -98,7 +98,7 @@ body {
     padding: 4px;
     background-repeat: repeat-x;
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
     margin-top: 1px;
 }
 
